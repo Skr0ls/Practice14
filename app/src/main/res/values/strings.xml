@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Practice14</string>
+    <string name="intro_text_view">Введите ваши данные:</string>
+    <string name="mail_example">example@example.com</string>
+    <string name="name_example">David</string>
+    <string name="age_example">18</string>
+    <string name="send_data_to_next_activity_button">Отправить данные на следующую активити</string>
+    <string name="text_view1">Почта:</string>
+    <string name="text_view2">Имя:</string>
+    <string name="text_view3">Возраст:</string>
+    <string name="change_button">Отправить изменения</string>
+
+
+</resources>
